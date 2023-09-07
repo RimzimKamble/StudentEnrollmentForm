@@ -1,4 +1,4 @@
-This website is a StudentEnrollmentForm for designed For school.
+This website is a StudentEnrollmentForm designed For school.
 Used basic HTML and JS code to design the website and functionalities and jsonpowerdb to store the students record.
 #Benefits of using JsonPowerDB
 1.Simplest way to retrieve data in a JSON format.
